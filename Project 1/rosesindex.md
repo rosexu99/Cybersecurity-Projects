@@ -1,8 +1,8 @@
 # My Blog
 
 ## [Rose Xu'S CYBER BLOG](https://www.linkedin.com/)
-[![LinkedIn logo](./images/LINKEDINIMAGE.png)](https://www.linkedin.com/)
-[Send Email](mailto:aaggarwal@2u.com)
+<img src="./images/LINKEDINIMAGE.png" href="www.linkedin.com" width="100"/>
+[Send Email](mailto:rose19996162@hotmail.com)
 
 ## About
 <img src="./images/IMG_9585.jpg" width="100"/>
