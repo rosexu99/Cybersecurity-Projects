@@ -1,7 +1,8 @@
 # My Blog
 
 ## [Rose Xu'S CYBER BLOG](https://www.linkedin.com/)
-<img src="./images/LINKEDINIMAGE.png" href="www.linkedin.com" width="100"/>
+<img src="./images/LINKEDINIMAGE.png" href="https://www.linkedin.com" width="100"/>
+
 [Send Email](mailto:rose19996162@hotmail.com)
 
 ## About
