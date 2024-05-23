@@ -8,6 +8,6 @@ Within this project we focused on creating a Web Application. Hosting a self hos
 
 ## Project 2 - Rekall Penetration Test Report 
 Conducted a penetration test using Web Application, Linux Servers and Windows Servers.
+[Directory](./Project%202/)
 
-[
-](https://docs.google.com/document/d/1MTrGlEXyQJgHS9ABHA98K4SHQN7u8okZqxeghwNZf6M/edit?usp=sharing)---
+
